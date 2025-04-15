@@ -51,6 +51,10 @@ npm run build
 ```bash
 npm test
 ```
+### Running frontned
+```bash
+npm run dev
+```
 
 ### Linting
 
